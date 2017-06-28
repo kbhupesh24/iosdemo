@@ -12,6 +12,7 @@
 		9303704D1F02DC4E00A793E4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9303704B1F02DC4E00A793E4 /* Main.storyboard */; };
 		9303704F1F02DC4E00A793E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9303704E1F02DC4E00A793E4 /* Assets.xcassets */; };
 		930370521F02DC4E00A793E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 930370501F02DC4E00A793E4 /* LaunchScreen.storyboard */; };
+		93E5CE931F033B2A00591BD1 /* beep1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 93E5CE921F033B2A00591BD1 /* beep1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9303704E1F02DC4E00A793E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		930370511F02DC4E00A793E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		930370531F02DC4E00A793E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93E5CE921F033B2A00591BD1 /* beep1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = beep1.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		930370461F02DC4E00A793E4 /* demo1 */ = {
 			isa = PBXGroup;
 			children = (
+				93E5CE921F033B2A00591BD1 /* beep1.mp3 */,
 				930370471F02DC4E00A793E4 /* AppDelegate.swift */,
 				930370491F02DC4E00A793E4 /* ViewController.swift */,
 				9303704B1F02DC4E00A793E4 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93E5CE931F033B2A00591BD1 /* beep1.mp3 in Resources */,
 				930370521F02DC4E00A793E4 /* LaunchScreen.storyboard in Resources */,
 				9303704F1F02DC4E00A793E4 /* Assets.xcassets in Resources */,
 				9303704D1F02DC4E00A793E4 /* Main.storyboard in Resources */,
@@ -301,6 +305,7 @@
 				930370581F02DC4E00A793E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
