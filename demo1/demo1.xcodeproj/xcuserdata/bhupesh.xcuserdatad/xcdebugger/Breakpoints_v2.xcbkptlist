@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "demo1/ViewController.swift"
+            timestampString = "520305787.099332"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demo1.ViewController.__deallocating_deinit"
+                  moduleName = "demo1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhupesh/Desktop/iosdemo/demo1/demo1/ViewController.swift"
+                  timestampString = "520288841.113602"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demo1.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; demo1.ViewController"
+                  moduleName = "demo1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhupesh/Desktop/iosdemo/demo1/demo1/ViewController.swift"
+                  timestampString = "520288841.117767"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demo1.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; demo1.ViewController"
+                  moduleName = "demo1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhupesh/Desktop/iosdemo/demo1/demo1/ViewController.swift"
+                  timestampString = "520288841.121767"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demo1.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;demo1.ViewController&gt;"
+                  moduleName = "demo1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhupesh/Desktop/iosdemo/demo1/demo1/ViewController.swift"
+                  timestampString = "520288841.124455"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "demo1.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;demo1.ViewController&gt;"
+                  moduleName = "demo1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhupesh/Desktop/iosdemo/demo1/demo1/ViewController.swift"
+                  timestampString = "520288841.127079"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
