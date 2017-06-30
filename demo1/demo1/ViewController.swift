@@ -40,7 +40,7 @@ class ViewController: UIViewController {
         time = 0
     }
     
-    func incrementTimer(){
+    @objc func incrementTimer(){
         time += 1
         timerlbl.text = String(time)
     }
@@ -81,7 +81,7 @@ class ViewController: UIViewController {
         startOutlet.isHidden = false
     }
     
-    func startCounterSelector(){
+    @objc func startCounterSelector(){
         seconds -= 1
         cntDwnTimerLbl.text = String(seconds) + " Seconds "
         
@@ -93,6 +93,8 @@ class ViewController: UIViewController {
     }
     
     
+    
+    //
     
     
     override func viewDidLoad() {
